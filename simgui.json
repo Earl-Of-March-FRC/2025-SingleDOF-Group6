@@ -1,6 +1,11 @@
 {
   "HALProvider": {
     "Other Devices": {
+      "Talon SRX[1]": {
+        "header": {
+          "open": true
+        }
+      },
       "Victor SPX[1]": {
         "header": {
           "open": true
@@ -15,5 +20,12 @@
   },
   "NetworkTables Info": {
     "visible": true
+  },
+  "Plot": {
+    "Plot <0>": {
+      "window": {
+        "visible": false
+      }
+    }
   }
 }

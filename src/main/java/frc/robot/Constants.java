@@ -23,7 +23,9 @@ public final class Constants {
 
   public static final class MotorConstants {
     public static final int motorPort = 1;
-    public static final double maxSpeed = 0.1;
+    public static final double maxSpeed = 0.5;
+    public static final double autoSpeed = 0.1;
+    public static final double autoTimeout = 1000;
   }
 
   public static final class EncoderConstants {

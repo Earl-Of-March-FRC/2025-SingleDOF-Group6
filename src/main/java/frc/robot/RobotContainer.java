@@ -35,7 +35,7 @@ public class RobotContainer {
     DON'T TRY IT
      */
 
-    //autoChooser.setDefaultOption("Auto Phase 1", new ArmAuto(armSub, MotorConstants.autoSpeed, MotorConstants.autoTimeout));
+    // autoChooser.setDefaultOption("Auto Phase 1", new ArmAuto(armSub, MotorConstants.autoSpeed, MotorConstants.autoTimeout));
    
     // Configure the trigger bindings
     configureBindings();
